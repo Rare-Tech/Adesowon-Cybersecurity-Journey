@@ -1,1 +1,5 @@
 
+## Course Summaries
+
+### Foundation of Cybersecurity
+The Foundation of Cybersecurity course introduced me to the core principles of protecting digital assets. I learned about key concepts such as confidentiality, integrity, and availability (the CIA triad), common cyber threats, and the importance of security policies and risk management. This course gave me a strong baseline understanding of how organizations build defenses and why proactive monitoring is essential for safeguarding sensitive information.
