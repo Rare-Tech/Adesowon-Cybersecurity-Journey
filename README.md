@@ -19,7 +19,7 @@ I am an aspiring cybersecurity analyst currently learning through the Google Cyb
 * Evaluated risk levels based on likelihood and impact
 * Applied the NIST Cybersecurity Framework
 
-👉 [View Project](https://github.com/YOUR-USERNAME/cybersecurity-risk-assessment-project)
+👉 [View Project](https://github.com/Rare-Tech/cybersecurity-risk-assessment-project)
 
 ---
 
