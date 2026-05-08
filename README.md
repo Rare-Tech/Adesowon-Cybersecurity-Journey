@@ -54,4 +54,5 @@ I am an aspiring cybersecurity analyst currently learning through the Google Cyb
 
 ## 📜 Certificates
 
-* Google Cybersecurity Professional Certificate (in progress)
+- [Foundations of Cybersecurity – Coursera](https://coursera.org/share/548e7f24c41847097afd4865df992a8e)
+- [Play It Safe: Manage Security Risk – Coursera](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
