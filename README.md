@@ -79,3 +79,9 @@ This project summarizes key cybersecurity principles related to operating system
 
 - Connect and Protect: Networks and Network Security  
   🔗 https://www.coursera.org/account/accomplishments/verify/510SJZY68IH3
+
+- Tools of the Play: Linux and SQL
+  🔗 https://www.coursera.org/account/accomplishments/verify/SPABGAFAR9F1
+
+- Assets, Threats, and Vulnerabilities
+  🔗 https://www.coursera.org/account/accomplishments/verify/QOBJELVGN4C1
