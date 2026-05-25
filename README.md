@@ -166,7 +166,7 @@ This project demonstrates foundational networking and network security concepts 
 * Continuous monitoring is essential for threat detection
 
 🔗 Project Link
-https://github.com/Rare-Tech/connect-and-protect-network-security
+https://github.com/Rare-Tech/Network-Security-Project
 
 ---
 
