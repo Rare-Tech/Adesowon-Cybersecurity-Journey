@@ -1,87 +1,242 @@
 # 🔐 Adesowon Cybersecurity Journey
 
-Cybersecurity portfolio showcasing my projects, notes, and certifications as I develop practical skills in security analysis and risk management.
+Cybersecurity portfolio showcasing my projects, certifications, notes, and hands-on labs as I continue developing practical skills in security analysis, networking, Linux, SQL, and threat detection.
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
-I am an aspiring cybersecurity analyst currently learning through the Google Cybersecurity Professional Certificate. I am building hands-on skills in risk assessment, security analysis, and foundational security practices.
+I am an aspiring cybersecurity analyst currently progressing through the Google Cybersecurity Professional Certificate program. I am building hands-on experience in:
 
----
+* Network Security
+* Risk Management
+* Linux Administration
+* SQL Queries
+* Threat Detection
+* Security Monitoring
+* Security Analysis
+* Vulnerability Management
 
-## 🔐 Featured Project
-
-### Cybersecurity Risk Assessment Project
-
-* Conducted a risk assessment for a small business environment
-* Identified assets, threats, and vulnerabilities
-* Evaluated risk levels based on likelihood and impact
-* Applied the NIST Cybersecurity Framework
-
-👉 [View Project](https://github.com/Rare-Tech/cybersecurity-risk-assessment-project)
+I focus on learning practical, defensive cybersecurity skills through hands-on labs and real-world scenarios.
 
 ---
 
-## 🌱 Currently Learning
+# 🎓 Google Cybersecurity Professional Certificate Journey
 
-* Cybersecurity fundamentals
-* Risk management and security analysis
-* SQL and networking basics
+### 1. Foundations of Cybersecurity
 
----
-
-## 💪 Strengths
-
-* Communication and time management
-* Commitment to continuous learning
+Introduced core cybersecurity principles such as the CIA triad, security domains, roles in cybersecurity, and threat landscapes.
 
 ---
 
-## 🎯 Values
+### 2. Play It Safe: Manage Security Risks
 
-* Protecting people and organizations
-* Following ethical and legal standards
+Focused on risk management frameworks, security controls, compliance, and identifying organizational risks.
+
+---
+
+### 3. Connect and Protect: Network and Network Security
+
+Covered networking fundamentals, firewalls, VPNs, network segmentation, and network threat detection.
 
 ---
 
-## 📚 Notes
+### 4. Tools of the Trade: Linux and SQL
 
-* Play It Safe: Manage Security Risk
-* Foundations of Cybersecurity
+Hands-on experience with Linux commands, file permissions, log analysis, and SQL queries for security investigations.
 
 ---
-# Connect and Protect: Network & Network Security
 
-## Overview
-This project summarizes key cybersecurity principles related to operating system hardening, network protection, and cloud security.
+### 5. Assets, Threats, and Vulnerabilities
 
-## Topics Covered
-- OS Hardening (patching, least privilege, MFA, service removal)
-- Network Hardening (port filtering, segmentation, firewalls)
-- Cloud Security (IAM and access control)
-- Threat Detection & Prevention
-- Security principles (attack surface, baseline, penetration testing)
+Focused on identifying assets, analyzing threats, assessing vulnerabilities, and applying risk-based security thinking.
 
-## Key Takeaways
-- Reducing attack surface improves security
-- Segmentation limits damage from attacks
-- IAM ensures only authorized access to cloud resources
-- Continuous monitoring helps detect threats early
+---
 
-## 📜 Certifications
+# 🎓 Google Cybersecurity Professional Certificate Journey
 
-- Foundations of Cybersecurity  
-  🔗(https://coursera.org/share/548e7f24c41847097afd4865df992a8e)
+## Completed Courses
 
-- Manage Security Risks  
-  🔗 (https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
+### 1. Foundations of Cybersecurity
 
-- Connect and Protect: Networks and Network Security  
-  🔗 https://www.coursera.org/account/accomplishments/verify/510SJZY68IH3
+Introduced to cybersecurity concepts, security domains, threat landscapes, and defensive security practices.
 
-- Tools of the Play: Linux and SQL
-  🔗 https://www.coursera.org/account/accomplishments/verify/SPABGAFAR9F1
+🔗 Certificate:
+https://www.coursera.org/account/accomplishments/verify/XYBXNYNJXRRQ
 
-- Assets, Threats, and Vulnerabilities
-  🔗 https://www.coursera.org/account/accomplishments/verify/QOBJELVGN4C1
+---
+
+### 2. Play It Safe: Manage Security Risks
+
+Focused on risk management, security frameworks, compliance, and organizational security practices.
+
+🔗 Certificate:
+https://www.coursera.org/account/accomplishments/verify/8BJCXJXH9RGB
+
+---
+
+### 3. Connect and Protect: Network and Network Security
+
+Covered networking fundamentals, network hardening, firewalls, segmentation, cloud security, and threat detection principles.
+
+🔗 Certificate:
+https://www.coursera.org/account/accomplishments/verify/510SJZY68IH3
+
+---
+
+### 4. Tools of the Trade: Linux and SQL
+
+Hands-on cybersecurity labs using Linux commands and SQL queries for security investigations, log analysis, and system administration.
+
+🔗 Certificate:
+https://www.coursera.org/account/accomplishments/verify/SPABGAFAR9F1
+
+---
+
+### 5. Assets, Threats, and Vulnerabilities
+
+Focused on identifying organizational assets, analyzing threats, understanding vulnerabilities, and implementing security controls.
+
+🔗 Certificate:
+https://www.coursera.org/account/accomplishments/verify/QOBJELVGN4C1
+
+---
+
+---
+
+# 💡 Key Learning Summary
+
+Across all five courses, I developed a strong cybersecurity foundation in:
+
+* Understanding how organizations protect data and systems
+* Identifying and analyzing cyber threats and vulnerabilities
+* Applying risk management principles in real scenarios
+* Using Linux and SQL for security investigations
+* Learning how networks are secured and monitored
+* Developing structured thinking for cybersecurity decision-making
+
+These courses built my foundation as a future security analyst focused on defensive cybersecurity operations.
+
+---
+
+# 🔐 Featured Cybersecurity Projects
+
+---
+
+## 🛡️ Cybersecurity Risk Assessment Project
+
+### Overview
+
+Conducted a risk assessment for a small business environment using structured cybersecurity frameworks.
+
+### Skills Demonstrated
+
+* Asset identification and classification
+* Threat identification and analysis
+* Vulnerability assessment
+* Risk scoring and evaluation
+* Security recommendations using NIST framework
+
+🔗 Project Link
+https://github.com/Rare-Tech/cybersecurity-risk-assessment-project
+
+---
+
+## 🌐 Connect and Protect: Network & Network Security
+
+### Overview
+
+This project demonstrates foundational networking and network security concepts through practical cybersecurity exercises.
+
+### Topics Covered
+
+* Network architecture and communication
+* OS hardening and access control
+* Network segmentation and security zones
+* Firewalls and port filtering
+* VPN security concepts
+* Cloud IAM and access control
+* Threat detection and monitoring
+
+### Key Takeaways
+
+* Reducing attack surface improves security posture
+* Network segmentation limits lateral movement of attackers
+* IAM enforces secure access control in cloud environments
+* Continuous monitoring is essential for threat detection
+
+🔗 Project Link
+https://github.com/Rare-Tech/connect-and-protect-network-security
+
+---
+
+## 🐧 Tools of the Trade: Linux and SQL
+
+### Overview
+
+Hands-on cybersecurity labs focused on Linux command-line tools and SQL queries used in security investigations.
+
+### Skills Demonstrated
+
+* Linux file and directory management
+* User permissions and access control
+* Log analysis and filtering
+* SQL queries for data investigation
+* Security event monitoring
+
+### Practical Focus
+
+* Investigating login attempts
+* Filtering security logs
+* Understanding system activity using commands
+
+🔗 Project Link
+https://github.com/Rare-Tech/tools-of-the-trade-linux-sql
+
+---
+
+# 🌱 Currently Learning
+
+* Security Operations Center (SOC) workflows
+* Incident response fundamentals
+* Threat intelligence concepts
+* Vulnerability management practices
+* Security monitoring tools
+
+---
+
+# 💪 Strengths
+
+* Communication and documentation
+* Analytical thinking
+* Problem-solving mindset
+* Consistent learning habit
+* Attention to detail
+
+---
+
+# 🎯 Values
+
+* Ethical cybersecurity practice
+* Protecting systems and people
+* Continuous improvement
+* Responsible use of security knowledge
+
+---
+
+# 🛠️ Tools & Technologies
+
+* Linux
+* GitHub
+* Bash
+* SQL
+* Wireshark
+* Nmap
+* Draw.io
+* Markdown
+
+---
+
+# 📌 Portfolio Goal
+
+This portfolio documents my cybersecurity learning journey, practical labs, and projects as I build toward a career in cybersecurity and security operations.
