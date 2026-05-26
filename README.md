@@ -237,6 +237,30 @@ https://github.com/Rare-Tech/tools-of-the-trade-linux-sql
 
 ---
 
+## 🛡️ Assets, Threats & Vulnerabilities
+
+This project focuses on identifying organizational assets, analyzing cybersecurity threats, assessing system vulnerabilities, and recommending security controls to reduce risk exposure.
+
+### Topics Covered
+
+* Asset identification and classification
+* Threat analysis and risk evaluation
+* Vulnerability assessment
+* Security controls and mitigation strategies
+* Risk-based security thinking
+
+### Key Takeaways
+
+* Critical assets require continuous protection and monitoring
+* Weak authentication and poor security practices increase organizational risk
+* Threat analysis helps organizations prepare for cyber attacks
+* Strong security controls reduce vulnerabilities and improve protection
+
+🔗 Project Link
+https://github.com/Rare-Tech/assets-threats-vulnerabilities
+
+---
+
 # 📌 Portfolio Goal
 
 This portfolio documents my cybersecurity learning journey, practical labs, and projects as I build toward a career in cybersecurity and security operations.
